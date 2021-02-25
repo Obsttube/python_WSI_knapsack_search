@@ -1,0 +1,6 @@
+# first line contains maximum backpack weight
+# next lines contain items in format: weight value (amount)
+25
+5 60
+10 100
+15 120
